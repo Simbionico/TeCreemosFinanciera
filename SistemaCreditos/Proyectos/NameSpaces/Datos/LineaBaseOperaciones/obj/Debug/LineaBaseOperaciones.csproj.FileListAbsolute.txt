@@ -1,0 +1,7 @@
+C:\Temp\SistemaCreditos\QA\Aplicacion\LineaBaseOperaciones.dll
+C:\Temp\SistemaCreditos\QA\Aplicacion\LineaBaseOperaciones.pdb
+C:\Temp\SistemaCreditos\Proyectos\NameSpaces\Datos\LineaBaseOperaciones\obj\Debug\LineaBaseOperaciones.csproj.CoreCompileInputs.cache
+C:\Temp\SistemaCreditos\Proyectos\NameSpaces\Datos\LineaBaseOperaciones\obj\Debug\LineaBaseOperaciones.csproj.CopyComplete
+C:\Temp\SistemaCreditos\Proyectos\NameSpaces\Datos\LineaBaseOperaciones\obj\Debug\LineaBaseOperaciones.dll
+C:\Temp\SistemaCreditos\Proyectos\NameSpaces\Datos\LineaBaseOperaciones\obj\Debug\LineaBaseOperaciones.pdb
+C:\Temp\SistemaCreditos\Proyectos\NameSpaces\Datos\LineaBaseOperaciones\obj\Debug\LineaBaseOperaciones.csproj.AssemblyReference.cache

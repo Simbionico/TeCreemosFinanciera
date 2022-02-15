@@ -1,0 +1,15 @@
+C:\Temp\SistemaCreditos\NameSpaces\General\Organismo\obj\Debug\Organismo.csproj.AssemblyReference.cache
+C:\Temp\SistemaCreditos\NameSpaces\General\Organismo\obj\Debug\Organismo.csproj.CoreCompileInputs.cache
+C:\Temp\SistemaCreditos\QA\Aplicacion\Organismo.dll
+C:\Temp\SistemaCreditos\QA\Aplicacion\Organismo.pdb
+C:\Temp\SistemaCreditos\NameSpaces\General\Organismo\obj\Debug\Organismo.dll
+C:\Temp\SistemaCreditos\NameSpaces\General\Organismo\obj\Debug\Organismo.pdb
+C:\Temp\SistemaCreditos\Proyectos\NameSpaces\General\Organismo\obj\Debug\Organismo.csproj.CoreCompileInputs.cache
+C:\Temp\SistemaCreditos\Proyectos\NameSpaces\General\Organismo\obj\Debug\Organismo.dll
+C:\Temp\SistemaCreditos\Proyectos\NameSpaces\General\Organismo\obj\Debug\Organismo.pdb
+C:\Temp\SistemaCreditos\Proyectos\QA\Organismo.dll
+C:\Temp\SistemaCreditos\Proyectos\QA\Organismo.pdb
+C:\Temp\SistemaCreditos\Proyectos\QA\Aplicacion\Organismo.dll
+C:\Temp\SistemaCreditos\Proyectos\QA\Aplicacion\Organismo.pdb
+C:\Temp\SistemaCreditos\Proyectos\NameSpaces\General\Organismo\obj\Debug\Organismo.csproj.AssemblyReference.cache
+C:\Temp\SistemaCreditos\Proyectos\NameSpaces\General\Organismo\obj\Debug\Organismo.csproj.CopyComplete

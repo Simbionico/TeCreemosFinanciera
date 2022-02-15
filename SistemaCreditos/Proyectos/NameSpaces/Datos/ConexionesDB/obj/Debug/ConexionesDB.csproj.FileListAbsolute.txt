@@ -1,0 +1,7 @@
+C:\Temp\SistemaCreditos\QA\Aplicacion\ConexionesDB.dll
+C:\Temp\SistemaCreditos\QA\Aplicacion\ConexionesDB.pdb
+C:\Temp\SistemaCreditos\Proyectos\NameSpaces\Datos\ConexionesDB\obj\Debug\ConexionesDB.csproj.CoreCompileInputs.cache
+C:\Temp\SistemaCreditos\Proyectos\NameSpaces\Datos\ConexionesDB\obj\Debug\ConexionesDB.csproj.CopyComplete
+C:\Temp\SistemaCreditos\Proyectos\NameSpaces\Datos\ConexionesDB\obj\Debug\ConexionesDB.dll
+C:\Temp\SistemaCreditos\Proyectos\NameSpaces\Datos\ConexionesDB\obj\Debug\ConexionesDB.pdb
+C:\Temp\SistemaCreditos\Proyectos\NameSpaces\Datos\ConexionesDB\obj\Debug\ConexionesDB.csproj.AssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Temp\SistemaCreditos\QA\Aplicacion\IConexiones.dll
+C:\Temp\SistemaCreditos\QA\Aplicacion\IConexiones.pdb
+C:\Temp\SistemaCreditos\Proyectos\NameSpaces\Datos\IConexiones\obj\Debug\IConexiones.csproj.CoreCompileInputs.cache
+C:\Temp\SistemaCreditos\Proyectos\NameSpaces\Datos\IConexiones\obj\Debug\IConexiones.dll
+C:\Temp\SistemaCreditos\Proyectos\NameSpaces\Datos\IConexiones\obj\Debug\IConexiones.pdb
+C:\Temp\SistemaCreditos\Proyectos\NameSpaces\Datos\IConexiones\obj\Debug\IConexiones.csproj.AssemblyReference.cache
